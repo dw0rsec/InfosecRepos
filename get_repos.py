@@ -22,7 +22,9 @@ def main():
         12:'https://github.com/dw0rsec/revshellgen',
         13:'https://github.com/tomnomnom/waybackurls.git',
         14:'https://github.com/bitsadmin/wesng.git',
-        15:'https://github.com/s0md3v/XSStrike.git'
+        15:'https://github.com/s0md3v/XSStrike.git',
+        16:'https://github.com/payloadbox/xss-payload-list.git',
+        17:'https://github.com/terjanq/Tiny-XSS-Payloads.git'
         }
 
     for i in range(len(repos)):
