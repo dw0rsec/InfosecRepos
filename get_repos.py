@@ -25,7 +25,8 @@ def main():
         15:'https://github.com/s0md3v/XSStrike.git',
         16:'https://github.com/payloadbox/xss-payload-list.git',
         17:'https://github.com/terjanq/Tiny-XSS-Payloads.git',
-        18:'https://github.com/Tib3rius/Turbo-Intruder-Scripts.git'
+        18:'https://github.com/Tib3rius/Turbo-Intruder-Scripts.git',
+        19:'https://github.com/projectdiscovery/httpx.git'
         }
 
     for i in range(len(repos)):
