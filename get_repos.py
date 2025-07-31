@@ -26,7 +26,8 @@ def main():
         16:'https://github.com/payloadbox/xss-payload-list.git',
         17:'https://github.com/terjanq/Tiny-XSS-Payloads.git',
         18:'https://github.com/Tib3rius/Turbo-Intruder-Scripts.git',
-        19:'https://github.com/projectdiscovery/httpx.git'
+        19:'https://github.com/projectdiscovery/httpx.git',
+        20:'https://github.com/dr34mhacks/jwtauditor.git'
         }
 
     for i in range(len(repos)):
